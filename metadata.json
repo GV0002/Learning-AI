@@ -1,0 +1,8 @@
+{
+  "name": "ProspectPilot",
+  "description": "An AI-powered lead generation and outreach engine that audits websites and drafts personalized cold emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
